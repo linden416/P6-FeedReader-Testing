@@ -2,6 +2,7 @@
 
 Project 6 Feed Reader Testing / Front-End Web Developer Nanodegree
 
+5-01-2015 - Second Submission Date
 5-01-2015 - First Submission Date
 
 ## Student
@@ -22,6 +23,13 @@ Project 6 Feed Reader Testing / Front-End Web Developer Nanodegree
 	RSS feeds.
 
 ## Note To Evaluator
+
+	1) Replaced the 'Todo Instruction' comments with comments that would
+	reflect professional code. They describe the test.
+
+	2) Replaced the Spec matcher for TEST 6. The matcher accurately tests
+	for 1 or more entries versus the total. This is a more precise test
+	for the real world.
 
 ## Installation Instructions
 
